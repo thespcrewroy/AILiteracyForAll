@@ -18,6 +18,15 @@
   <img src="https://github.com/thespcrewroy/CSCI-4370/blob/main/roadmap.png" alt="Demo" width="800" />
 </p>
 
-<details>
-<summary>📖 Table of Contents</summary>
-<br />
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#footer)
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/license/mit)
+
+<small>
+Copyright &copy; The University of Georgia.
+This work is licensed under 
+a <a rel="license" href="https://opensource.org/license/mit">Massachusetts Institute of Technology License</a> to the public.
+The content and opinions expressed on this Web page do not necessarily reflect the views of nor are they endorsed by the University of Georgia or the University System of Georgia.
+
+<p align="right"><a href="#top">🔼 Back to top</a></p>
+</small>
