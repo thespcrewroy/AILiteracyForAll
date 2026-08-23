@@ -18,6 +18,27 @@
   <img src="https://github.com/thespcrewroy/CSCI-4370/blob/main/roadmap.png" alt="Demo" width="800" />
 </p>
 
+ [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
+
+## Topics
+|  Chap  |               Topic                    |
+| -------| -------------------------------------- |
+| `mod01` | `AI Literacy Fundamentals`                         |
+| `ch02` | `Introduction to the Relational Model` |
+| `ch03` | `Intermediate SQL`                     |
+| `ch04` | `Introduction to the Relational Model` |
+| `ch06` | `Database Design Using The E-R Model`  |
+| `ch07` | `Relational Database Design`           |
+| `ch09` | `Application Development`              |
+| `ch10` | `Big Data`                             |
+| `ch11` | `Data Analysis`                        |
+| `ch12` | `Physical Storage Systems`             |
+| `ch13` | `Data Storage Structures`              |
+| `ch14` | `Indexing`                             |
+| `ch15` | `Query Processing`                     |
+| `ch16` | `Query Optimization`                   |
+| `ch17` | `Transactions`                         |
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#footer)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-red.svg)](https://opensource.org/license/mit)
