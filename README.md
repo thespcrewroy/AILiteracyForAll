@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <b>CSCI 4370 offers an introduction to database design and the utilization of database management systems in applications. The course also provides an introduction to inner workings of database management systems. Based on <i>Database System Concepts, Seventh Edition, By Avi Silberschatz, Henry F. Korth and S. Sudarshan (2019)</i>.<sub></b>
+  <b>Coursework, notes, and resources from the Digital Education Council and University of Georgia’s AI Literacy for All program, covering responsible AI use, prompt engineering, output evaluation, and human–AI collaboration.</i><sub></b>
 </p>
 
 <br />
