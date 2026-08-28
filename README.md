@@ -15,7 +15,7 @@
 <br />
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy/CSCI-4370/blob/main/roadmap.png" alt="Demo" width="800" />
+  <img src="https://github.com/thespcrewroy/AILiteracyForAll/blob/main/roadmap.png" alt="Demo" width="800" />
 </p>
 
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
