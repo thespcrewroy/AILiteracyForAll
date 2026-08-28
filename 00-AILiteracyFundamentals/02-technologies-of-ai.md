@@ -27,4 +27,5 @@
 <p align="center">
   <img src="https://github.com/thespcrewroy/AILiteracyForAll/blob/main/assets/1-4.jpg" />
 </p>
+
 > Example of an AI-Powered Chatbot
