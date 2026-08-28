@@ -21,23 +21,14 @@
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/grass.png)](#topics)
 
 ## Topics
-|  Chap  |               Topic                    |
-| -------| -------------------------------------- |
-| `mod01` | `AI Literacy Fundamentals`                         |
-| `ch02` | `Introduction to the Relational Model` |
-| `ch03` | `Intermediate SQL`                     |
-| `ch04` | `Introduction to the Relational Model` |
-| `ch06` | `Database Design Using The E-R Model`  |
-| `ch07` | `Relational Database Design`           |
-| `ch09` | `Application Development`              |
-| `ch10` | `Big Data`                             |
-| `ch11` | `Data Analysis`                        |
-| `ch12` | `Physical Storage Systems`             |
-| `ch13` | `Data Storage Structures`              |
-| `ch14` | `Indexing`                             |
-| `ch15` | `Query Processing`                     |
-| `ch16` | `Query Optimization`                   |
-| `ch17` | `Transactions`                         |
+|  Chap  |               Topic                     |
+| --------| -------------------------------------- |
+| `mod01` | `AI Literacy Fundamentals`             |
+| `mod02` | `Best Practices for Prompting`         |
+| `mod03` | `Evaluating AI Output`                 |
+| `mod04` | `Critical Thinking and Creativity`     |
+| `mod05` | `Ethics of AI`                         |
+| `mod06` | `Prepare for an AI-Driven Workforce`   |
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png)](#footer)
 
