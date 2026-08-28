@@ -1,7 +1,7 @@
 # What is AI?
 
 <p align="center">
-  <img src="https://github.com/thespcrewroy//blob/main/Notes/assets/1-1.png" />
+  <img src="https://github.com/thespcrewroy/AILiteracyForAll/blob/main/assets/1-1.jpg" />
 </p>
 
 * Artificial Intelligence (AI) refers to techniques that allow computers to imitate human intelligence, such as understanding language, recognizing speech, solving problems, making decisions, and learning from data.
