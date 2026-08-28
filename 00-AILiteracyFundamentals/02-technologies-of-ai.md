@@ -14,6 +14,8 @@
 6. Use the model: once trained and evaluated, the model can classify new, unseen inputs (e.g., labeling an unlabeled image as “dog”). <br>
 </details>
 
+<br>
+
 <p align="center">
   <img src="https://github.com/thespcrewroy/AILiteracyForAll/blob/main/assets/1-3.jpg" />
 </p>
