@@ -12,7 +12,7 @@
 ### Evaluate Alignment
 * Tone: The email uses a fairly professional language, suitable for business correspondence.
 * Purpose Focus: The email introduces the company and requests a meeting, fulfilling the purpose.
-* Relevance: The benefits of AI are mentioned high-level, but the email is generic and doesn’t address the client’s specific industry or needs.
+* Relevance: The benefits of AI are mentioned high-level, but the email is generic and doesn’t address the client’s specific industry.
 
 ### Identify Gaps
 * Personalization: The email could be more tailored to the recipient’s industry or known challenges.
