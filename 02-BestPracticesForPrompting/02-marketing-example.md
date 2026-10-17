@@ -49,7 +49,7 @@
 
 > Include formatting instructions
 
-* AI’s output: A structured response with detailed steps, such as creating engaging Instagram Reels and designing a welcome email sequence.
+* AI’s output: A response with detailed steps, creating engaging Instagram Reels and designing a welcome email sequence.
 * Lesson: Adding formatting instructions ensures the output is easy to follow and actionable.
 
 <br>
